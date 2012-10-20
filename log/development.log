@@ -39,3 +39,93 @@ Served asset /oauth.js - 200 OK (2ms)
 
 Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
 Served asset /application.js - 304 Not Modified (6ms)
+
+
+Started GET "/oauth/get" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Processing by OauthController#get as HTML
+  Rendered oauth/get.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/oauth.css?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /oauth.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/oauth.js?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /oauth.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-10-21 08:45:13 +0900
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/oauth/get" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Processing by OauthController#get as HTML
+  Rendered oauth/get.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 5ms (Views: 4.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/oauth.css?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /oauth.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/oauth.js?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /oauth.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-10-21 08:46:49 +0900
+Served asset /application.js - 304 Not Modified (0ms)
+
+
+Started GET "/oauth/get" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Processing by OauthController#get as HTML
+  Rendered oauth/get.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 34ms (Views: 33.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /application.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /jquery.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/oauth.css?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /oauth.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/oauth.js?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /oauth.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /jquery_ujs.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-10-21 08:56:36 +0900
+Served asset /application.js - 304 Not Modified (0ms)
