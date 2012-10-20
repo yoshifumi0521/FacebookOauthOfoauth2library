@@ -22,9 +22,6 @@ end
 
 gem 'jquery-rails'
 
-gem "oauth2" #oauth2ライブラリを利用
-
-
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 

@@ -1,5 +1,41 @@
 
 
-Started GET "/assets/rails.png" for 127.0.0.1 at 2012-10-13 06:55:52 +0900
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-10-21 08:42:34 +0900
 Connecting to database specified by database.yml
-Served asset /rails.png - 200 OK (6ms)
+Served asset /rails.png - 304 Not Modified (7ms)
+
+
+Started GET "/oauth/get" for 127.0.0.1 at 2012-10-21 08:43:53 +0900
+Processing by OauthController#get as HTML
+  Rendered oauth/get.html.erb within layouts/application (2.4ms)
+Compiled oauth.css  (5ms)  (pid 7671)
+Compiled application.css  (13ms)  (pid 7671)
+Compiled jquery.js  (5ms)  (pid 7671)
+Compiled jquery_ujs.js  (0ms)  (pid 7671)
+Compiled oauth.js  (149ms)  (pid 7671)
+Compiled application.js  (210ms)  (pid 7671)
+Completed 200 OK in 345ms (Views: 344.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/oauth.css?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /oauth.css - 200 OK (3ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /jquery_ujs.js - 304 Not Modified (5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /application.css - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /jquery.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/oauth.js?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /oauth.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-10-21 08:43:54 +0900
+Served asset /application.js - 304 Not Modified (6ms)
